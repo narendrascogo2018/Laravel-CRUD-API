@@ -1,0 +1,2 @@
+# Laravel-CRUD-API
+You might have heard about RESTful API. By practice, most developers have used third party APIs like that from google and facebook. RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data. RESTful API is used in web services development. It allows two software programs to communicate with each another.  This tutorial will help you create your own RESTful API using Laravel 5. On this example, I am using Laravel 5.7.
